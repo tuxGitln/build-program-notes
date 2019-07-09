@@ -1,6 +1,7 @@
 # build-program-notes
 
-```java```
+```
+java
 import java.util.Scanner;
 
 class Main{
